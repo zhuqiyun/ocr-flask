@@ -1,0 +1,1 @@
+ps -ef|grep manager.py|grep -v grep |cut -c 10-15|xargs kill

@@ -1,0 +1,1 @@
+from .ocr_rec_webservice import RecService

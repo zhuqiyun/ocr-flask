@@ -1,0 +1,1 @@
+/home/rong/miniconda3/envs/paddle_env/bin/python manager.py
